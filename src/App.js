@@ -24,6 +24,10 @@ class App extends Component {
 
         </Section>
 
+        <Section title="Statistics">
+
+        </Section>
+
       </>
     );
   }
